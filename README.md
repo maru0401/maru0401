@@ -3,7 +3,7 @@
 DiscordのBOTやWEB制作、業務ソフトなどを作っています。<br/>
 チーム開発では主にバックエンドを担当している高校生<br/>
 フロントエンド苦手です<br/>
-目新しいものが大好きです
+目新しいものが大好き!
 
 <p align="left">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maru0401&layout=compact&show_icons=true&theme=onedark" />
@@ -17,17 +17,19 @@ DiscordのBOTやWEB制作、業務ソフトなどを作っています。<br/>
 
 <a href="https://trackgit.com"><img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lh2x7n0myrfeg931a5lh" alt="trackgit-views" /></a>
 
+## Introduction
+
 <h1>Hi! I'm maruyama</h1>
 <h3>Skills</h3>
 <h4>Languages</h4>
 <p>
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-ffdc00.svg?logo=&style=plastic">
   <img alt="PHP" src="https://img.shields.io/badge/PHP-ccc.svg?logo=php&style=flat">
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=flat">
   <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-F7DF1E.svg?logo=javascript&style=plastic">
   <img alt="C++" src="https://img.shields.io/badge/-++-0099E5.svg?logo=C&style=plastic">
   <img alt="C#" src="https://img.shields.io/badge/-%EF%BC%83-0099E5.svg?logo=C&style=plastic">
-  <img alt="Go" src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="Go" src="https://img.shields.io/badge/-Go-0099E5.svg?logo=go&style=plastic"/>
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
