@@ -16,7 +16,7 @@ DiscordのBOTやWEB制作、業務ソフトなどを作っています。<br/>
 </p>
 
 ## Introduction
-### Hi! I'm maruyama</h2>
+### Hi! I'm maruyama
 <h3>Skills</h3>
 <h4>Languages</h4>
 <p>
