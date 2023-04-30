@@ -1,7 +1,9 @@
 ## About Me
 
 DiscordのBOTやWEB制作、業務ソフトなどを作っています。<br/>
-チーム開発では主にバックエンドを担当している高校生
+チーム開発では主にバックエンドを担当している高校生<br/>
+フロントエンド苦手です<br/>
+目新しいものが大好きです
 
 <p align="left">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maru0401&layout=compact&show_icons=true&theme=onedark" />
@@ -41,15 +43,11 @@ DiscordのBOTやWEB制作、業務ソフトなどを作っています。<br/>
 <p>
   <img alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </p>
-<h4>Hosting</h4>
-<p>
-  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white" />
-  <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white" />
-</p>
 <h4>OS</h4>
 <p>
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-0099E5.svg?logo=Linux&style=plastic">
   <img alt="Raspberry" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A.svg?logo=raspberry-pi&style=flat">
 </p>
 <h4>MiddleWares</h4>
@@ -57,7 +55,7 @@ DiscordのBOTやWEB制作、業務ソフトなどを作っています。<br/>
 <img alt="Apache" src="https://img.shields.io/badge/-Apache-D22128.svg?logo=apache&style=flat">
 <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-bfcfcf.svg?logo=nginx&style=flat">
 <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-0099E5.svg?logo=MySQL&style=plastic">
-
+<img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white" />
 </p>
 <h4>Others</h4>
 <p>
