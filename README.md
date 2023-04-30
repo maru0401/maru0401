@@ -4,8 +4,8 @@
 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maru0401&theme=aura_dark)
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=maru0401&theme=onedark&column=7
-)(https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=maru0401&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 </p>
 
 <a href="https://trackgit.com"><img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lh2x7n0myrfeg931a5lh" alt="trackgit-views" /></a>
