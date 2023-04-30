@@ -17,8 +17,8 @@ DiscordのBOTやWEB制作、業務ソフトなどを作っています。<br/>
 
 ## Introduction
 
-<h2>Hi! I'm maruyama</h2>
-<h3>Skills</h3>
+<h3>Hi! I'm maruyama</h3>
+<h4>Skills</h4>
 <h4>Languages</h4>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-ffdc00.svg?logo=&style=plastic">
@@ -64,4 +64,7 @@ DiscordのBOTやWEB制作、業務ソフトなどを作っています。<br/>
 <img alt="github" src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">
 <img alt="docker" src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat">
 </p>
-<a href="https://trackgit.com"><img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lh2x7n0myrfeg931a5lh" alt="trackgit-views" /></a>
+
+<a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lh2x7n0myrfeg931a5lh" alt="trackgit-views" />
+</a>
