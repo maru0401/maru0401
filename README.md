@@ -64,4 +64,3 @@ DiscordのBOTやWEB制作、業務ソフトなどを作っています。<br/>
 <img alt="docker" src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat">
 </p>
 
-<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lh2x7n0myrfeg931a5lh" alt="trackgit-views" />
