@@ -12,6 +12,7 @@ DiscordのBOTやWEB制作、業務ソフトなどを作っています。<br/>
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maru0401&theme=aura_dark)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=maru0401&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  
 [Twitter](https://twitter.com/MaruNougyou)
   
 </p>
