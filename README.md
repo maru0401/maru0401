@@ -1,13 +1,7 @@
-### About Me
+## About Me
 
 DiscordのBOTやWEB制作、業務ソフトなどを作っています。<br/>
 チーム開発では主にバックエンドを担当している高校生
-
-## Language and tools
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
-
-<img align="left" alt="js" width="26px" src="https://i.imgur.com/0nw4gYG.png" />  <br>
 
 <p align="left">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maru0401&layout=compact&show_icons=true&theme=onedark" />
@@ -21,7 +15,7 @@ DiscordのBOTやWEB制作、業務ソフトなどを作っています。<br/>
 
 <a href="https://trackgit.com"><img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lh2x7n0myrfeg931a5lh" alt="trackgit-views" /></a>
 
-<h1>Hi, I'm maruyama</h1>
+<h1>Hi! I'm maruyama</h1>
 <h3>Skills</h3>
 <h4>Languages</h4>
 <p>
@@ -62,7 +56,8 @@ DiscordのBOTやWEB制作、業務ソフトなどを作っています。<br/>
 <p>
 <img alt="Apache" src="https://img.shields.io/badge/-Apache-D22128.svg?logo=apache&style=flat">
 <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-bfcfcf.svg?logo=nginx&style=flat">
-<img alt="PostgreSQL"　src="https://img.shields.io/badge/-PostgreSQL-336791.svg?logo=postgresql&style=flat">
+<img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-0099E5.svg?logo=MySQL&style=plastic">
+
 </p>
 <h4>Others</h4>
 <p>
