@@ -15,10 +15,9 @@ DiscordのBOTやWEB制作、業務ソフトなどを作っています。<br/>
 
 </p>
 
-## Introduction
-
-<h3>Hi! I'm maruyama</h3>
-<h4>Skills</h4>
+<h1>Introduction</h1>
+<h2>Hi! I'm maruyama</h2>
+<h3>Skills</h3>
 <h4>Languages</h4>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-ffdc00.svg?logo=&style=plastic">
