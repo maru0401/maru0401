@@ -1,9 +1,9 @@
 ## About Me
 
-DiscordのBOTやWEB制作、業務ソフトなどを作っています。<br/>
-チーム開発では主にバックエンドを担当している高校生<br/>
-フロントエンド苦手です<br/>
-目新しいものが大好き!
+インフラ(AWS,Google cloud,VPS)やWEB制作、業務ソフトなどを作っています。<br/>
+チーム開発では主にバックエンドを担当している高校生です<br/>
+フロントエンド苦手<br/>
+目新しいものが好きです
 
 [Twitter](https://twitter.com/MaruNougyou)
 
